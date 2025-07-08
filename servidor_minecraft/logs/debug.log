@@ -1425,3 +1425,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Jul2025 22:03:31.976] [Server thread/DEBUG] [net.minecraftforge.network.filters.NetworkFilters/]: Injected net.minecraftforge.network.filters.ForgeConnectionNetworkFilter@472e2332 into net.minecraft.network.Connection@60667533
 [08Jul2025 22:03:31.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
 [08Jul2025 22:03:32.294] [Server thread/DEBUG] [io.netty.util.internal.ThreadLocalRandom/]: -Dio.netty.initialSeedUniquifier: 0x987471a3c48f1c8f
+[08Jul2025 22:06:55.329] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 22:06:55.336] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 22:07:09.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Sneak 100]
+[08Jul2025 22:08:05.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Diamonds!]
+[08Jul2025 22:11:55.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 22:11:55.311] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 22:13:32.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has completed the challenge [It Spreads]
+[08Jul2025 22:15:12.165] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/163, l='ServerLevel[world]', x=199.70, y=-41.00, z=-261.00]]

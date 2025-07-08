@@ -103,3 +103,6 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Jul2025 22:03:31.950] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@1b6b3592
 [08Jul2025 22:03:31.964] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.152.201.222:43141] logged in with entity id 163 at (239.536629294643, 74.41999998688698, -187.3283335852881)
 [08Jul2025 22:03:31.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
+[08Jul2025 22:07:09.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Sneak 100]
+[08Jul2025 22:08:05.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Diamonds!]
+[08Jul2025 22:13:32.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has completed the challenge [It Spreads]
