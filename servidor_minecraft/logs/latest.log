@@ -118,3 +118,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Jul2025 22:35:28.310] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was slain by The Irritator
 [08Jul2025 22:45:22.217] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Ice Bucket Challenge]
 [08Jul2025 22:55:58.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Not Today, Thank You]
+[08Jul2025 23:01:37.697] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Enchanter]
+[08Jul2025 23:01:44.382] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida moved too quickly! -5.895919022499115,0.8378585789729982,8.075059678004905

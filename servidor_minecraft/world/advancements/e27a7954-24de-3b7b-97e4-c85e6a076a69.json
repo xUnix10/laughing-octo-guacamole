@@ -838,6 +838,7 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
+      "minecraft:pillager": "2025-07-08 22:55:55 +0000",
       "minecraft:zombie": "2025-07-08 01:19:06 +0000"
     },
     "done": false
@@ -863,6 +864,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-07-08 01:11:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enchant_item": {
+    "criteria": {
+      "enchanted_item": "2025-07-08 23:01:37 +0000"
     },
     "done": true
   },
@@ -1211,6 +1218,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-08 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/deflect_arrow": {
+    "criteria": {
+      "deflected_projectile": "2025-07-08 22:55:58 +0000"
     },
     "done": true
   },
