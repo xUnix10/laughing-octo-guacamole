@@ -2049,3 +2049,12 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Jul2025 23:25:14.436] [Server thread/DEBUG] [de.cadentem.irritator.Irritator/]: Irritator could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=168.82, y=6.00, z=-215.79]]
 [08Jul2025 23:26:55.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jul2025 23:26:55.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 23:27:51.713] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was doomed to fall by entity.mimicer.mimicer
+[08Jul2025 23:27:51.860] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=165.70, y=-5.09, z=-216.47]]
+[08Jul2025 23:27:52.104] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=165.70, y=-3.41, z=-216.48]]
+[08Jul2025 23:27:52.156] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=165.70, y=-3.08, z=-216.48]]
+[08Jul2025 23:27:52.355] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=165.70, y=-1.73, z=-216.49]]
+[08Jul2025 23:31:55.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 23:31:55.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 23:36:55.289] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 23:36:55.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
