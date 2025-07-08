@@ -2041,3 +2041,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Jul2025 23:16:50.856] [Server thread/DEBUG] [de.cadentem.irritator.Irritator/]: Irritator could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/163, l='ServerLevel[world]', x=190.50, y=100.00, z=-194.50]]
 [08Jul2025 23:16:55.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [08Jul2025 23:16:55.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 23:21:55.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 23:21:55.290] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[08Jul2025 23:23:05.513] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=127.23, y=-2.68, z=-254.34]]
+[08Jul2025 23:23:05.953] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=127.23, y=-1.80, z=-254.34]]
+[08Jul2025 23:25:04.149] [Server thread/DEBUG] [de.cadentem.irritator.Irritator/]: Irritator could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=165.93, y=5.00, z=-216.19]]
+[08Jul2025 23:25:14.436] [Server thread/DEBUG] [de.cadentem.irritator.Irritator/]: Irritator could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=168.82, y=6.00, z=-215.79]]
+[08Jul2025 23:26:55.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[08Jul2025 23:26:55.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
