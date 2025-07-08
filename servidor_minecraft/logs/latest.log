@@ -106,3 +106,9 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [08Jul2025 22:07:09.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Sneak 100]
 [08Jul2025 22:08:05.368] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Diamonds!]
 [08Jul2025 22:13:32.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has completed the challenge [It Spreads]
+[08Jul2025 22:22:04.274] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@3c326156
+[08Jul2025 22:22:04.280] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xUNIx10[/127.51.58.115:51753] logged in with entity id 2961 at (214.43928722264852, 56.0, -194.07709709046125)
+[08Jul2025 22:22:04.285] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 joined the game
+[08Jul2025 22:24:49.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> uno
+[08Jul2025 22:24:53.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Diamonds!]
+[08Jul2025 22:26:15.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was slain by xUNIx10
