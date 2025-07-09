@@ -2205,3 +2205,33 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jul2025 23:17:32.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> ya se fue
 [09Jul2025 23:18:18.442] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jul2025 23:18:18.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 23:21:13.174] [Server thread/DEBUG] [de.cadentem.cave_dweller.CaveDweller/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=159.71, y=17.00, z=-177.32]]
+[09Jul2025 23:23:18.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 23:23:18.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 23:24:44.288] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> ya no tengo balas cuando aparecen los creepers?
+[09Jul2025 23:24:55.783] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> ya estoy haceindo el techo
+[09Jul2025 23:25:00.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> bueno el mecanismo del agua
+[09Jul2025 23:25:15.836] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> para que querias la amatista?
+[09Jul2025 23:25:33.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> para hacer armas
+[09Jul2025 23:26:08.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> este
+[09Jul2025 23:26:16.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> ahorita me subes unas cosas porfa
+[09Jul2025 23:26:21.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> que cosas
+[09Jul2025 23:26:31.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> ahorita te digo
+[09Jul2025 23:26:37.871] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> ok
+[09Jul2025 23:27:33.822] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.03, y=88.00, z=-194.47]]
+[09Jul2025 23:27:34.042] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.03, y=88.00, z=-194.47]]
+[09Jul2025 23:27:38.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> c le puede quitar un encantamiento a un libro con 2?
+[09Jul2025 23:27:51.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> si
+[09Jul2025 23:27:54.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> como
+[09Jul2025 23:27:56.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> por ejemplo si tiene
+[09Jul2025 23:28:02.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> ho que quiere hacer
+[09Jul2025 23:28:04.761] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> ?
+[09Jul2025 23:28:18.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> es q tengo un encantamiento para mi escopeta
+[09Jul2025 23:28:18.438] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 23:28:18.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 23:28:26.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> pero el libro tambien tiene proteccion
+[09Jul2025 23:28:47.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> pues pones el libro con la escopeta en el yunque
+[09Jul2025 23:28:53.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> no me deja
+[09Jul2025 23:28:55.499] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=199.55, y=88.00, z=-194.37]]
+[09Jul2025 23:28:55.749] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=199.55, y=88.00, z=-194.37]]
+[09Jul2025 23:29:02.609] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=199.55, y=88.00, z=-194.37]]

@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-09 23:25:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-07-08 01:41:58 +0000"
@@ -344,6 +350,12 @@
   "cgm:recipes/cgm/grenade": {
     "criteria": {
       "has_gunpowder": "2025-07-09 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-09 23:25:42 +0000"
     },
     "done": true
   },
@@ -744,6 +756,12 @@
   "minecraft:recipes/building_blocks/green_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-08 01:22:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-07-09 23:25:42 +0000"
     },
     "done": true
   },
@@ -1604,6 +1622,12 @@
   "minecraft:recipes/building_blocks/orange_wool": {
     "criteria": {
       "has_white_wool": "2025-07-08 01:21:05 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/long_scope": {
+    "criteria": {
+      "has_amethyst": "2025-07-09 23:25:42 +0000"
     },
     "done": true
   },
