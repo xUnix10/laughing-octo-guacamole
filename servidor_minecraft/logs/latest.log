@@ -100,3 +100,16 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jul2025 21:49:08.361] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@6ac660b5
 [09Jul2025 21:49:08.382] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xUNIx10[/127.51.58.115:45889] logged in with entity id 197 at (138.7478652348067, 92.0, -124.0848692399445)
 [09Jul2025 21:49:08.412] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 joined the game
+[09Jul2025 22:01:16.971] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@2f2d5a97
+[09Jul2025 22:01:16.978] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.152.201.222:49709] logged in with entity id 1677 at (202.65835186400363, 88.0, -189.87756867022495)
+[09Jul2025 22:01:16.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
+[09Jul2025 22:02:52.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> por q va tan lag
+[09Jul2025 22:02:59.837] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> ni idea
+[09Jul2025 22:03:09.457] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida lost connection: Disconnected
+[09Jul2025 22:03:09.457] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida left the game
+[09Jul2025 22:03:16.468] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@60f697ad
+[09Jul2025 22:03:16.477] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.152.201.222:46191] logged in with entity id 2745 at (176.06051413498108, 93.0, -155.3347060894334)
+[09Jul2025 22:03:16.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
+[09Jul2025 22:04:00.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> ti t va mal?
+[09Jul2025 22:04:09.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> mas o menos
+[09Jul2025 22:04:21.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> pero a mi me aparece que a ti te va bien
