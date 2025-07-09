@@ -440,6 +440,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/note_block": {
+    "criteria": {
+      "has_redstone": "2025-07-09 00:14:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dripstone_block": {
     "criteria": {
       "has_pointed_dripstone": "2025-07-08 23:15:17 +0000"
@@ -602,6 +608,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/medium_scope": {
+    "criteria": {
+      "has_redstone": "2025-07-09 00:14:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/obtain_armor": {
     "criteria": {
       "iron_chestplate": "2025-07-08 01:56:07 +0000"
@@ -731,6 +743,12 @@
   "minecraft:husbandry/root": {
     "criteria": {
       "consumed_item": "2025-07-08 01:07:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_torch": {
+    "criteria": {
+      "has_redstone": "2025-07-09 00:14:58 +0000"
     },
     "done": true
   },
@@ -866,6 +884,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/clock": {
+    "criteria": {
+      "has_redstone": "2025-07-09 00:14:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/spruce_fence": {
     "criteria": {
       "has_planks": "2025-07-08 01:09:26 +0000"
@@ -924,6 +948,12 @@
   "minecraft:story/enchant_item": {
     "criteria": {
       "enchanted_item": "2025-07-08 23:01:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_block": {
+    "criteria": {
+      "has_redstone": "2025-07-09 00:14:58 +0000"
     },
     "done": true
   },
@@ -1485,6 +1515,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dropper": {
+    "criteria": {
+      "has_redstone": "2025-07-09 00:14:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_pressure_plate": {
     "criteria": {
       "has_planks": "2025-07-08 01:09:26 +0000"
@@ -1554,6 +1590,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-07-08 22:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/compass": {
+    "criteria": {
+      "has_redstone": "2025-07-09 00:14:58 +0000"
     },
     "done": true
   },
@@ -1800,6 +1842,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/short_scope": {
+    "criteria": {
+      "has_redstone": "2025-07-09 00:14:58 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/lapis_block": {
     "criteria": {
       "has_lapis_lazuli": "2025-07-08 22:50:39 +0000"
@@ -1815,6 +1863,12 @@
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2025-07-08 01:53:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/piston": {
+    "criteria": {
+      "has_redstone": "2025-07-09 00:14:58 +0000"
     },
     "done": true
   },
