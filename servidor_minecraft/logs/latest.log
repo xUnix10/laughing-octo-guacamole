@@ -113,3 +113,30 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jul2025 22:04:00.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> ti t va mal?
 [09Jul2025 22:04:09.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> mas o menos
 [09Jul2025 22:04:21.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> pero a mi me aparece que a ti te va bien
+[09Jul2025 22:08:29.229] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> podrias saca cristal porfas
+[09Jul2025 22:09:02.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> voy q me va muy bug
+[09Jul2025 22:12:20.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> cuanto necesitas
+[09Jul2025 22:12:26.886] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> no lo se
+[09Jul2025 22:12:32.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> lo suficiente para hacer un tuvo
+[09Jul2025 22:12:34.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> desde
+[09Jul2025 22:12:41.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> las plataforma de gua
+[09Jul2025 22:12:45.526] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> agua
+[09Jul2025 22:12:49.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> a las tolvas
+[09Jul2025 22:12:53.442] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> para matarlos
+[09Jul2025 22:13:39.481] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> por q voy a 16 fps?
+[09Jul2025 22:13:51.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> tienes shaders
+[09Jul2025 22:13:55.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> no
+[09Jul2025 22:13:59.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> o ventanas a bieras ?
+[09Jul2025 22:14:02.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> abiertas
+[09Jul2025 22:14:07.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> no solo discord
+[09Jul2025 22:14:22.597] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> mmmm
+[09Jul2025 22:14:24.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> ni idea
+[09Jul2025 22:15:03.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> se esta calentando en los hornos
+[09Jul2025 22:15:13.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> deja veo como soluciono lo del lag
+[09Jul2025 22:15:21.358] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> ok
+[09Jul2025 22:15:23.208] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida lost connection: Disconnected
+[09Jul2025 22:15:23.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida left the game
+[09Jul2025 22:17:46.410] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@f8089d5
+[09Jul2025 22:17:46.415] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.152.201.222:35895] logged in with entity id 6690 at (199.25882333022557, 88.0, -194.69999998807907)
+[09Jul2025 22:17:46.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
+[09Jul2025 22:18:04.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> ya c arreglo
