@@ -181,3 +181,4 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jul2025 22:44:15.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> acabo de aprender a pensatr
 [09Jul2025 22:44:26.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> voy a la deep dark´por experiencia
 [09Jul2025 22:44:32.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> lol
+[09Jul2025 23:07:04.292] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=117, y=93, z=-128} BlockPos{x=117, y=92, z=-127}
