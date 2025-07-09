@@ -222,3 +222,21 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jul2025 23:28:26.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> pero el libro tambien tiene proteccion
 [09Jul2025 23:28:47.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> pues pones el libro con la escopeta en el yunque
 [09Jul2025 23:28:53.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> no me deja
+[09Jul2025 23:29:04.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> mmmm ni idea
+[09Jul2025 23:30:23.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> sale llamada ?
+[09Jul2025 23:30:26.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> ok
+[09Jul2025 23:30:32.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> me traes bloques
+[09Jul2025 23:30:37.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> osea tierra porfa
+[09Jul2025 23:30:40.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> y
+[09Jul2025 23:30:47.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> muchas slabs
+[09Jul2025 23:30:51.657] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> de
+[09Jul2025 23:30:59.757] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> de lo que sea
+[09Jul2025 23:31:09.059] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> tambien el comparador que esta en los cofers porfa y la palanca
+[09Jul2025 23:33:06.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> ya estoy en llamada
+[09Jul2025 23:33:15.787] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> voy
+[09Jul2025 23:34:27.410] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
+[09Jul2025 23:34:27.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[09Jul2025 23:35:37.713] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@50cbe231
+[09Jul2025 23:35:37.719] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: xUNIx10[/127.51.58.115:41373] logged in with entity id 28057 at (108.99933270826381, 92.0, -103.90260671913029)
+[09Jul2025 23:35:37.723] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 joined the game
+[09Jul2025 23:36:00.537] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=128, y=93, z=-104} BlockPos{x=127, y=91, z=-103}
