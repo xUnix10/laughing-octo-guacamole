@@ -3255,3 +3255,19 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jul2025 01:58:16.954] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=202.45, y=88.00, z=-187.69]]
 [09Jul2025 01:58:17.236] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=201.81, y=88.00, z=-187.72]]
 [09Jul2025 01:58:17.857] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=200.85, y=89.25, z=-190.06]]
+[09Jul2025 02:01:57.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 02:01:57.444] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 02:06:57.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 02:06:57.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 02:07:23.620] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/163, l='ServerLevel[world]', x=195.70, y=89.50, z=-196.16]]
+[09Jul2025 02:11:57.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 02:11:57.450] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 02:13:16.903] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/163, l='ServerLevel[world]', x=737.03, y=47.57, z=-172.62]]
+[09Jul2025 02:13:17.152] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/163, l='ServerLevel[world]', x=737.34, y=48.08, z=-172.42]]
+[09Jul2025 02:13:34.252] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/163, l='ServerLevel[world]', x=742.77, y=41.05, z=-161.40]]
+[09Jul2025 02:13:36.102] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/163, l='ServerLevel[world]', x=746.13, y=42.03, z=-157.88]]
+[09Jul2025 02:13:37.502] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/163, l='ServerLevel[world]', x=747.81, y=43.29, z=-157.28]]
+[09Jul2025 02:13:43.702] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/163, l='ServerLevel[world]', x=761.51, y=47.08, z=-155.35]]
+[09Jul2025 02:16:57.443] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 02:16:57.446] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 02:17:25.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=143, y=93, z=-118} BlockPos{x=144, y=91, z=-120}

@@ -9,3 +9,4 @@
 [09Jul2025 01:02:17.636] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=38, y=114, z=-123} BlockPos{x=38, y=113, z=-124}
 [09Jul2025 01:19:42.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Man From The Fog
 [09Jul2025 01:37:55.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [Enchanter]
+[09Jul2025 02:17:25.265] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=143, y=93, z=-118} BlockPos{x=144, y=91, z=-120}

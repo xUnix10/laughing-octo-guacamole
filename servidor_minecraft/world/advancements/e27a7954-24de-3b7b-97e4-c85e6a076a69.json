@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-07-09 02:04:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/blue_wool": {
     "criteria": {
       "has_white_wool": "2025-07-08 01:21:05 +0000"
@@ -514,6 +520,7 @@
       "minecraft:pillager": "2025-07-08 22:55:55 +0000",
       "minecraft:skeleton": "2025-07-09 00:52:05 +0000",
       "minecraft:spider": "2025-07-09 00:52:18 +0000",
+      "minecraft:creeper": "2025-07-09 02:04:45 +0000",
       "minecraft:zombie": "2025-07-08 01:19:06 +0000"
     },
     "done": false
@@ -587,6 +594,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-07-09 00:34:32 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/stun_grenade": {
+    "criteria": {
+      "has_gunpowder": "2025-07-09 02:04:46 +0000"
     },
     "done": true
   },
@@ -800,6 +813,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/basic_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-07-09 02:04:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-07-09 00:56:17 +0000"
@@ -953,6 +972,12 @@
   "minecraft:recipes/decorations/stonecutter": {
     "criteria": {
       "has_stone": "2025-07-08 02:38:04 +0000"
+    },
+    "done": true
+  },
+  "cgm:recipes/cgm/missile": {
+    "criteria": {
+      "has_gunpowder": "2025-07-09 02:04:46 +0000"
     },
     "done": true
   },
@@ -1272,6 +1297,12 @@
     },
     "done": true
   },
+  "cgm:recipes/cgm/advanced_bullet": {
+    "criteria": {
+      "has_gunpowder": "2025-07-09 02:04:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/diamond_sword": {
     "criteria": {
       "has_diamond": "2025-07-08 22:24:53 +0000"
@@ -1323,6 +1354,12 @@
   "minecraft:recipes/tools/flint_and_steel": {
     "criteria": {
       "has_flint": "2025-07-08 01:42:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-07-09 02:04:46 +0000"
     },
     "done": true
   },
@@ -1470,6 +1507,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-07-08 00:58:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-07-09 02:04:46 +0000"
     },
     "done": true
   },
@@ -1788,6 +1831,12 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-07-08 01:01:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-07-09 02:02:02 +0000"
     },
     "done": true
   },
@@ -2178,6 +2227,12 @@
   "minecraft:recipes/decorations/stone_brick_walls_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-08 02:38:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-07-09 02:02:02 +0000"
     },
     "done": true
   },
