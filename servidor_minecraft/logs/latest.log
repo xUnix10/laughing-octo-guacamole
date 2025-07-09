@@ -3,3 +3,6 @@
 [09Jul2025 00:31:46.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2162ms or 43 ticks behind
 [09Jul2025 00:32:32.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [We Need to Go Deeper]
 [09Jul2025 00:46:49.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [What a Deal!]
+[09Jul2025 00:50:48.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=101, y=95, z=-156} BlockPos{x=101, y=93, z=-157}
+[09Jul2025 00:50:48.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=101, y=95, z=-156} BlockPos{x=101, y=93, z=-157}
+[09Jul2025 00:54:13.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida moved too quickly! 7.6105047683729765,0.0,6.508583840280494

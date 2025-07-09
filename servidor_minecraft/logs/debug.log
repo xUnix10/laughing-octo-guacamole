@@ -2588,3 +2588,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jul2025 00:46:49.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida has made the advancement [What a Deal!]
 [09Jul2025 00:46:57.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [09Jul2025 00:46:57.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 00:50:48.073] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=101, y=95, z=-156} BlockPos{x=101, y=93, z=-157}
+[09Jul2025 00:50:48.126] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=101, y=95, z=-156} BlockPos{x=101, y=93, z=-157}
+[09Jul2025 00:51:57.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 00:51:57.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 00:54:09.969] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=198.42, y=88.00, z=-192.47]]
+[09Jul2025 00:54:11.273] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=198.42, y=88.00, z=-192.47]]
+[09Jul2025 00:54:12.188] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=198.42, y=88.00, z=-192.47]]
+[09Jul2025 00:54:12.489] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=198.42, y=88.00, z=-192.47]]
+[09Jul2025 00:54:13.512] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=198.42, y=88.00, z=-192.47]]
+[09Jul2025 00:54:13.528] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida moved too quickly! 7.6105047683729765,0.0,6.508583840280494
+[09Jul2025 00:54:13.799] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=198.42, y=88.00, z=-192.47]]
+[09Jul2025 00:54:14.853] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=198.42, y=88.00, z=-192.47]]
+[09Jul2025 00:54:15.055] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=198.42, y=88.00, z=-192.47]]
+[09Jul2025 00:54:15.317] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=198.42, y=88.00, z=-192.47]]
+[09Jul2025 00:54:15.691] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=198.42, y=88.00, z=-192.47]]
+[09Jul2025 00:54:16.148] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=198.42, y=88.00, z=-192.47]]
+[09Jul2025 00:54:16.504] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=198.42, y=88.00, z=-192.47]]
+[09Jul2025 00:54:18.241] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=194.40, y=90.00, z=-192.42]]
+[09Jul2025 00:54:19.011] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=194.16, y=91.81, z=-193.51]]
+[09Jul2025 00:54:20.579] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/2961, l='ServerLevel[world]', x=194.70, y=95.93, z=-193.44]]
+[09Jul2025 00:56:57.437] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 00:56:57.441] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
