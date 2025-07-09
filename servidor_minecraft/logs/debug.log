@@ -2027,3 +2027,97 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [09Jul2025 22:18:07.522] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.00, y=88.00, z=-192.09]]
 [09Jul2025 22:18:09.326] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.00, y=88.00, z=-192.09]]
 [09Jul2025 22:18:09.896] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.00, y=88.00, z=-192.09]]
+[09Jul2025 22:18:12.413] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.00, y=88.00, z=-192.09]]
+[09Jul2025 22:18:13.599] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.00, y=88.00, z=-192.09]]
+[09Jul2025 22:18:13.889] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.00, y=88.00, z=-192.09]]
+[09Jul2025 22:18:15.637] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.00, y=88.00, z=-192.09]]
+[09Jul2025 22:18:16.009] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.00, y=88.00, z=-192.09]]
+[09Jul2025 22:18:17.183] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.00, y=88.00, z=-192.09]]
+[09Jul2025 22:18:18.587] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.00, y=88.00, z=-192.09]]
+[09Jul2025 22:18:18.809] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.00, y=88.00, z=-192.09]]
+[09Jul2025 22:18:18.866] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 22:18:18.870] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 22:18:19.366] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.00, y=88.00, z=-192.09]]
+[09Jul2025 22:18:19.693] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.00, y=88.00, z=-192.09]]
+[09Jul2025 22:18:23.472] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.00, y=88.00, z=-192.09]]
+[09Jul2025 22:18:23.720] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.00, y=88.00, z=-192.09]]
+[09Jul2025 22:18:24.088] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.00, y=88.00, z=-192.09]]
+[09Jul2025 22:18:26.330] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.04, y=88.00, z=-190.40]]
+[09Jul2025 22:18:26.833] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.55, y=88.00, z=-188.65]]
+[09Jul2025 22:18:27.006] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.85, y=88.00, z=-188.19]]
+[09Jul2025 22:18:27.612] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.85, y=88.00, z=-188.18]]
+[09Jul2025 22:18:28.486] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.85, y=88.00, z=-188.18]]
+[09Jul2025 22:18:29.565] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.85, y=88.00, z=-188.18]]
+[09Jul2025 22:18:31.625] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.79, y=88.00, z=-188.24]]
+[09Jul2025 22:18:32.503] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.79, y=88.00, z=-188.24]]
+[09Jul2025 22:18:32.640] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.07, y=88.00, z=-188.37]]
+[09Jul2025 22:18:32.894] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=199.96, y=88.00, z=-188.39]]
+[09Jul2025 22:18:33.383] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=199.94, y=88.00, z=-188.39]]
+[09Jul2025 22:18:33.955] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.66, y=88.00, z=-187.79]]
+[09Jul2025 22:18:35.865] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.09, y=88.00, z=-187.22]]
+[09Jul2025 22:18:36.133] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.10, y=88.00, z=-187.19]]
+[09Jul2025 22:18:36.407] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.10, y=88.00, z=-187.19]]
+[09Jul2025 22:18:36.697] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.10, y=88.00, z=-187.19]]
+[09Jul2025 22:18:36.891] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.10, y=88.00, z=-187.19]]
+[09Jul2025 22:18:40.137] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.10, y=88.00, z=-187.19]]
+[09Jul2025 22:18:41.186] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.01, y=88.00, z=-187.48]]
+[09Jul2025 22:18:43.860] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=200.53, y=88.00, z=-187.53]]
+[09Jul2025 22:18:55.020] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=202.04, y=88.00, z=-195.29]]
+[09Jul2025 22:18:55.259] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=202.04, y=88.00, z=-195.29]]
+[09Jul2025 22:18:55.918] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=202.04, y=88.00, z=-195.29]]
+[09Jul2025 22:18:56.201] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=202.04, y=88.00, z=-195.29]]
+[09Jul2025 22:18:56.581] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=202.04, y=88.00, z=-195.29]]
+[09Jul2025 22:18:57.209] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=202.04, y=88.00, z=-195.29]]
+[09Jul2025 22:18:58.470] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=202.04, y=88.00, z=-195.29]]
+[09Jul2025 22:18:59.349] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.28, y=88.00, z=-196.41]]
+[09Jul2025 22:18:59.658] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.28, y=88.00, z=-196.41]]
+[09Jul2025 22:18:59.987] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.28, y=88.00, z=-196.41]]
+[09Jul2025 22:19:01.323] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.28, y=88.00, z=-196.41]]
+[09Jul2025 22:19:01.539] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.28, y=88.00, z=-196.41]]
+[09Jul2025 22:19:02.789] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.28, y=88.00, z=-196.41]]
+[09Jul2025 22:19:03.202] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.28, y=88.00, z=-196.41]]
+[09Jul2025 22:19:03.479] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.28, y=88.00, z=-196.41]]
+[09Jul2025 22:19:04.326] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.28, y=88.00, z=-196.41]]
+[09Jul2025 22:19:04.643] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.28, y=88.00, z=-196.41]]
+[09Jul2025 22:19:06.487] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.41, y=88.00, z=-193.43]]
+[09Jul2025 22:19:09.370] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.50, y=88.00, z=-188.90]]
+[09Jul2025 22:19:13.434] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.50, y=88.00, z=-188.90]]
+[09Jul2025 22:19:14.064] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.50, y=88.00, z=-188.90]]
+[09Jul2025 22:19:14.311] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.50, y=88.00, z=-188.90]]
+[09Jul2025 22:19:14.774] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.50, y=88.00, z=-188.90]]
+[09Jul2025 22:19:16.152] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.50, y=88.00, z=-188.90]]
+[09Jul2025 22:19:17.887] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.50, y=88.00, z=-188.90]]
+[09Jul2025 22:19:18.110] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=201.50, y=88.00, z=-188.70]]
+[09Jul2025 22:19:20.824] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=193.80, y=91.91, z=-193.51]]
+[09Jul2025 22:19:21.388] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=193.40, y=93.20, z=-193.30]]
+[09Jul2025 22:19:22.655] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=193.24, y=96.14, z=-193.31]]
+[09Jul2025 22:19:23.721] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/2745, l='ServerLevel[world]', x=199.26, y=88.00, z=-194.70, removed=UNLOADED_WITH_PLAYER]]
+[09Jul2025 22:20:07.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> donde estas
+[09Jul2025 22:20:15.314] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> que paso
+[09Jul2025 22:20:26.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> pero dejalo en los cofres
+[09Jul2025 22:20:34.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> todavia me quedan 9 pisos
+[09Jul2025 22:20:39.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> a y
+[09Jul2025 22:20:39.648] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=135.13, y=115.25, z=-121.24]]
+[09Jul2025 22:20:41.398] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/6690, l='ServerLevel[world]', x=134.90, y=107.47, z=-122.05]]
+[09Jul2025 22:20:42.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> podrias hacer
+[09Jul2025 22:20:46.325] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> 12 cubos de agua porfas
+[09Jul2025 22:20:48.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> y
+[09Jul2025 22:20:53.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> llenarolos de agua ?
+[09Jul2025 22:21:18.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> como solucionaste lo del lag
+[09Jul2025 22:21:28.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> reinicie la compu
+[09Jul2025 22:22:01.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> xd
+[09Jul2025 22:23:08.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> ya estan en los cofres
+[09Jul2025 22:23:18.440] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 22:23:18.445] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[09Jul2025 22:23:23.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was slain by Man From The Fog
+[09Jul2025 22:23:27.467] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> xd
+[09Jul2025 22:24:01.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> nooooooooo mi casco
+[09Jul2025 22:24:17.563] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> se rompio ?
+[09Jul2025 22:24:20.666] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> si
+[09Jul2025 22:24:32.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> comprate otro
+[09Jul2025 22:26:53.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> changos
+[09Jul2025 22:27:05.864] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> que
+[09Jul2025 22:27:52.626] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> no tengo tierra
+[09Jul2025 22:27:59.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> ahorita t llevo
+[09Jul2025 22:28:18.447] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[09Jul2025 22:28:18.453] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
