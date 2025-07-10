@@ -4856,3 +4856,11 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jul2025 02:51:27.298] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/28057, l='ServerLevel[world]', x=205.25, y=88.00, z=-192.34]]
 [10Jul2025 02:51:27.830] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/28057, l='ServerLevel[world]', x=205.25, y=88.00, z=-192.34]]
 [10Jul2025 02:51:28.781] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['xUNIx10'/28057, l='ServerLevel[world]', x=204.34, y=88.00, z=-191.66]]
+[10Jul2025 02:53:20.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 02:53:20.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 02:58:20.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 02:58:20.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 03:00:45.167] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[10Jul2025 03:00:52.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was slain by Man From The Fog
+[10Jul2025 03:00:55.851] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/92646, l='ServerLevel[world]', x=193.50, y=100.00, z=-194.50]]
+[10Jul2025 03:00:56.540] [Server thread/DEBUG] [de.cadentem.mimicer.Mimicer/]: Mimicer could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/92646, l='ServerLevel[world]', x=192.75, y=100.56, z=-193.94]]
