@@ -5457,3 +5457,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jul2025 06:01:05.654] [Server thread/WARN] [cgm/]: literal{xUNIx10}(e27a7954-24de-3b7b-97e4-c85e6a076a69) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
 [10Jul2025 06:03:20.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Jul2025 06:03:20.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 06:08:20.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 06:08:20.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 06:13:20.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 06:13:20.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
