@@ -293,6 +293,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/dried_kelp_from_smoking": {
+    "criteria": {
+      "has_kelp": "2025-07-10 03:24:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/hopper": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 01:58:41 +0000"
@@ -518,6 +524,12 @@
   "minecraft:recipes/combat/turtle_helmet": {
     "criteria": {
       "has_scute": "2025-07-08 22:39:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_smelting": {
+    "criteria": {
+      "has_kelp": "2025-07-10 03:24:41 +0000"
     },
     "done": true
   },
@@ -1376,6 +1388,12 @@
   "cgm:recipes/cgm/heavy_rifle": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 01:58:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/dried_kelp_from_campfire_cooking": {
+    "criteria": {
+      "has_kelp": "2025-07-10 03:24:41 +0000"
     },
     "done": true
   },
