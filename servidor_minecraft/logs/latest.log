@@ -71,3 +71,8 @@
 [10Jul2025 04:25:42.865] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
 [10Jul2025 04:25:42.866] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
 [10Jul2025 04:25:42.883] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 82
+[10Jul2025 04:42:01.811] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida moved too quickly! 2.436558217013385,0.9755759117863079,-9.884212657766682
+[10Jul2025 04:42:05.234] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida moved too quickly! 4.570279059148845,3.024424088213692,-8.558011619030708
+[10Jul2025 04:47:01.925] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 398
+[10Jul2025 04:52:15.611] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Nitwit'/157427, l='ServerLevel[world]', x=196.70, y=100.50, z=-230.70] died, message: 'Nitwit was slain by xUNIx10'
+[10Jul2025 04:52:22.859] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/157428, l='ServerLevel[world]', x=196.70, y=100.50, z=-230.30] died, message: 'Villager was slain by xUNIx10'
