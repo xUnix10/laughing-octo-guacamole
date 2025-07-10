@@ -570,7 +570,8 @@
       "minecraft:spider": "2025-07-09 00:52:18 +0000",
       "minecraft:creeper": "2025-07-09 02:04:45 +0000",
       "minecraft:zombified_piglin": "2025-07-10 00:46:08 +0000",
-      "minecraft:zombie": "2025-07-08 01:19:06 +0000"
+      "minecraft:zombie": "2025-07-08 01:19:06 +0000",
+      "minecraft:zombie_villager": "2025-07-10 01:36:41 +0000"
     },
     "done": false
   },
@@ -730,6 +731,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/cyan_glazed_terracotta": {
+    "criteria": {
+      "has_cyan_terracotta": "2025-07-10 01:28:42 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
       "has_white_wool": "2025-07-08 01:21:05 +0000"
@@ -787,6 +794,12 @@
   "minecraft:recipes/building_blocks/blackstone_stairs": {
     "criteria": {
       "has_blackstone": "2025-07-09 00:34:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_wood": {
+    "criteria": {
+      "has_log": "2025-07-10 01:24:25 +0000"
     },
     "done": true
   },
@@ -889,6 +902,12 @@
   "cgm:recipes/cgm/basic_bullet": {
     "criteria": {
       "has_gunpowder": "2025-07-09 02:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-07-10 01:24:25 +0000"
     },
     "done": true
   },
@@ -1068,8 +1087,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-07-10 01:27:05 +0000",
+      "minecraft:birch_forest": "2025-07-10 01:32:49 +0000",
+      "minecraft:beach": "2025-07-10 01:33:00 +0000",
+      "minecraft:dark_forest": "2025-07-10 01:36:10 +0000",
       "minecraft:river": "2025-07-08 01:01:07 +0000",
       "minecraft:dripstone_caves": "2025-07-08 03:32:52 +0000",
+      "minecraft:swamp": "2025-07-10 01:26:33 +0000",
+      "minecraft:forest": "2025-07-10 01:40:21 +0000",
+      "minecraft:ocean": "2025-07-10 01:34:38 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-10 01:39:06 +0000",
       "minecraft:meadow": "2025-07-08 00:59:05 +0000",
       "minecraft:plains": "2025-07-08 00:57:53 +0000"
     },
@@ -1701,6 +1728,12 @@
   "minecraft:recipes/transportation/minecart": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 01:58:41 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/grizzly_bear": {
+    "criteria": {
+      "killed_by": "2025-07-10 01:31:49 +0000"
     },
     "done": true
   },

@@ -16,3 +16,15 @@
 [10Jul2025 00:57:06.393] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was annihilated by xUNIx10
 [10Jul2025 00:57:27.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was executed by xUNIx10
 [10Jul2025 00:57:49.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was eliminated by xUNIx10
+[10Jul2025 01:20:57.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was slain by Man From The Fog
+[10Jul2025 01:31:49.866] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 has made the advancement [Pic-A-Nic Basket?]
+[10Jul2025 01:43:37.196] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida moved too quickly! 3.0613287693618716,-6.48442363047586,7.4694853151391385
+[10Jul2025 01:43:39.910] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida was kicked for floating too long!
+[10Jul2025 01:43:39.913] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida lost connection: Flying is not enabled on this server
+[10Jul2025 01:43:39.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida left the game
+[10Jul2025 01:43:39.967] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[10Jul2025 01:44:06.462] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.server.PlayerAdvancements@328d3c13
+[10Jul2025 01:44:06.467] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Fresita_decaida[/127.152.201.222:48077] logged in with entity id 92646 at (35.82535903132519, 65.21589434553873, -311.0942192655328)
+[10Jul2025 01:44:06.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida joined the game
+[10Jul2025 01:47:42.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by Scarlet Persecutor
+[10Jul2025 01:50:25.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 was slain by entity.mimicer.mimicer

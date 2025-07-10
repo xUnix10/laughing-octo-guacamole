@@ -131,6 +131,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:44:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-07-08 01:05:29 +0000"
@@ -197,6 +203,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:44:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/shears": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 03:17:50 +0000"
@@ -245,9 +257,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_planks": {
+    "criteria": {
+      "has_log": "2025-07-10 01:23:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/iron_leggings": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 03:17:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:44:33 +0000"
     },
     "done": true
   },
@@ -317,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mangrove_wood": {
+    "criteria": {
+      "has_log": "2025-07-10 01:23:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-07-08 22:38:18 +0000"
@@ -332,6 +362,12 @@
   "minecraft:adventure/avoid_vibration": {
     "criteria": {
       "avoid_vibration": "2025-07-08 22:07:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mangrove_planks": {
+    "criteria": {
+      "has_logs": "2025-07-10 01:23:31 +0000"
     },
     "done": true
   },
@@ -581,6 +617,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_fence": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_brick_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-07-08 02:25:37 +0000"
@@ -668,6 +710,12 @@
   "minecraft:recipes/building_blocks/lime_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 22:18:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:44:33 +0000"
     },
     "done": true
   },
@@ -812,6 +860,12 @@
   "minecraft:recipes/building_blocks/granite_stairs": {
     "criteria": {
       "has_granite": "2025-07-09 00:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:35:17 +0000"
     },
     "done": true
   },
@@ -1079,6 +1133,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:44:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-07-08 01:00:23 +0000"
@@ -1185,11 +1245,16 @@
     "criteria": {
       "minecraft:old_growth_pine_taiga": "2025-07-10 00:44:14 +0000",
       "minecraft:taiga": "2025-07-10 00:36:34 +0000",
+      "minecraft:birch_forest": "2025-07-10 01:32:49 +0000",
       "minecraft:beach": "2025-07-10 00:41:10 +0000",
+      "minecraft:dark_forest": "2025-07-10 01:36:06 +0000",
       "minecraft:river": "2025-07-08 23:49:40 +0000",
       "minecraft:dripstone_caves": "2025-07-08 02:16:35 +0000",
+      "minecraft:swamp": "2025-07-10 01:26:32 +0000",
       "minecraft:cold_ocean": "2025-07-10 00:40:53 +0000",
       "minecraft:forest": "2025-07-10 00:32:07 +0000",
+      "minecraft:ocean": "2025-07-10 01:34:41 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-07-10 01:39:25 +0000",
       "minecraft:deep_dark": "2025-07-08 22:06:53 +0000",
       "minecraft:meadow": "2025-07-08 00:58:47 +0000",
       "minecraft:plains": "2025-07-08 00:56:37 +0000"
@@ -1456,6 +1521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/wheat": {
+    "criteria": {
+      "has_hay_block": "2025-07-10 01:29:47 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
       "has_white_wool": "2025-07-08 01:05:13 +0000"
@@ -1658,9 +1729,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/bucket": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 03:17:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_button": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:35:17 +0000"
     },
     "done": true
   },
@@ -1964,6 +2047,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_wood": {
+    "criteria": {
+      "has_log": "2025-07-10 01:23:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/orange_stained_glass": {
     "criteria": {
       "has_glass": "2025-07-09 22:18:28 +0000"
@@ -2036,6 +2125,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:44:33 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-07-09 00:32:32 +0000"
@@ -2075,6 +2170,12 @@
   "minecraft:recipes/decorations/white_carpet": {
     "criteria": {
       "has_white_wool": "2025-07-08 01:05:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:44:33 +0000"
     },
     "done": true
   },
@@ -2360,6 +2461,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/jungle_sign": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite": {
     "criteria": {
       "has_stone": "2025-07-08 22:22:34 +0000"
@@ -2450,6 +2557,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_slab": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:35:17 +0000"
+    },
+    "done": true
+  },
   "alexsmobs:alexsmobs/crocodile": {
     "criteria": {
       "killed_by": "2025-07-10 00:39:53 +0000"
@@ -2495,6 +2608,12 @@
   "minecraft:recipes/building_blocks/polished_andesite": {
     "criteria": {
       "has_andesite": "2025-07-08 23:18:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:44:33 +0000"
     },
     "done": true
   },
@@ -2570,6 +2689,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/jungle_stairs": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/heavy_weighted_pressure_plate": {
     "criteria": {
       "has_iron_ingot": "2025-07-08 03:17:50 +0000"
@@ -2612,6 +2737,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/jungle_door": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:35:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/brown_bed_from_white_bed": {
     "criteria": {
       "has_bed": "2025-07-08 01:06:57 +0000"
@@ -2621,6 +2752,12 @@
   "minecraft:recipes/building_blocks/polished_granite": {
     "criteria": {
       "has_granite": "2025-07-09 00:09:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/jungle_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:35:17 +0000"
     },
     "done": true
   },
@@ -2675,6 +2812,12 @@
   "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
     "criteria": {
       "has_beef": "2025-07-08 01:05:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-07-10 01:44:33 +0000"
     },
     "done": true
   },
