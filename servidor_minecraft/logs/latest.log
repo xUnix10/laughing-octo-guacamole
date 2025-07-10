@@ -45,3 +45,25 @@
 [10Jul2025 04:12:16.772] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> me meto al discord?
 [10Jul2025 04:12:25.420] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Fresita_decaida> si quieres
 [10Jul2025 04:12:28.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <xUNIx10> ok
+[10Jul2025 04:17:16.187] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[10Jul2025 04:17:16.188] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[10Jul2025 04:17:16.462] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[10Jul2025 04:17:20.709] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[10Jul2025 04:17:20.709] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[10Jul2025 04:17:20.725] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 83
+[10Jul2025 04:17:22.514] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[10Jul2025 04:17:22.515] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[10Jul2025 04:17:22.537] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 77
+[10Jul2025 04:17:22.795] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[10Jul2025 04:18:02.010] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Fresita_decaida moved too quickly! 0.8542026077678531,-0.604424101326714,10.213737137229089
+[10Jul2025 04:18:17.944] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[10Jul2025 04:18:17.959] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 84
+[10Jul2025 04:18:19.946] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[10Jul2025 04:18:21.359] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
+[10Jul2025 04:18:21.359] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[10Jul2025 04:18:21.745] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[10Jul2025 04:18:21.746] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[10Jul2025 04:18:21.746] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 98
+[10Jul2025 04:18:27.787] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 88
+[10Jul2025 04:18:52.288] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
+[10Jul2025 04:21:53.437] [Server thread/WARN] [cgm/]: literal{xUNIx10}(e27a7954-24de-3b7b-97e4-c85e6a076a69) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 78
