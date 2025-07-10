@@ -31,3 +31,4 @@
 [10Jul2025 01:53:49.684] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 moved wrongly!
 [10Jul2025 01:59:36.084] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=113, z=-178} BlockPos{x=-74, y=111, z=-177}
 [10Jul2025 01:59:36.136] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-74, y=113, z=-178} BlockPos{x=-74, y=111, z=-177}
+[10Jul2025 02:17:25.655] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was slain by Man From The Fog
