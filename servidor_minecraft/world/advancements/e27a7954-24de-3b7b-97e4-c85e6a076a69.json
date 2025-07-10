@@ -341,6 +341,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/brick": {
+    "criteria": {
+      "has_clay_ball": "2025-07-10 03:06:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-07-10 02:25:09 +0000"
@@ -623,6 +629,7 @@
       "minecraft:skeleton": "2025-07-09 00:52:05 +0000",
       "minecraft:spider": "2025-07-09 00:52:18 +0000",
       "minecraft:creeper": "2025-07-09 02:04:45 +0000",
+      "minecraft:phantom": "2025-07-10 03:03:28 +0000",
       "minecraft:zombified_piglin": "2025-07-10 00:46:08 +0000",
       "minecraft:zombie": "2025-07-08 01:19:06 +0000",
       "minecraft:zombie_villager": "2025-07-10 01:36:41 +0000"
@@ -893,6 +900,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-07-10 03:00:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-07-08 01:09:21 +0000"
@@ -902,6 +915,12 @@
   "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
       "has_dandelion": "2025-07-08 02:13:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/clay": {
+    "criteria": {
+      "has_clay_ball": "2025-07-10 03:06:10 +0000"
     },
     "done": true
   },
@@ -2439,6 +2458,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/conduit": {
+    "criteria": {
+      "has_nautilus_shell": "2025-07-10 03:06:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/spruce_slab": {
     "criteria": {
       "has_planks": "2025-07-08 01:09:26 +0000"
@@ -2562,6 +2587,12 @@
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2025-07-08 22:34:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/acacia_planks": {
+    "criteria": {
+      "has_log": "2025-07-10 03:00:54 +0000"
     },
     "done": true
   },
