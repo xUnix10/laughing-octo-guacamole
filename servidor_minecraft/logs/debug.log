@@ -5171,3 +5171,20 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [10Jul2025 03:41:32.438] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/92646, l='ServerLevel[world]', x=133.70, y=86.00, z=-122.70]]
 [10Jul2025 03:42:02.233] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/92646, l='ServerLevel[world]', x=133.70, y=86.00, z=-122.70]]
 [10Jul2025 03:42:11.175] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/92646, l='ServerLevel[world]', x=133.70, y=86.00, z=-122.70]]
+[10Jul2025 03:42:19.396] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/92646, l='ServerLevel[world]', x=133.70, y=86.00, z=-122.70]]
+[10Jul2025 03:42:25.732] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/92646, l='ServerLevel[world]', x=133.70, y=86.00, z=-122.70]]
+[10Jul2025 03:42:26.401] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/92646, l='ServerLevel[world]', x=133.70, y=86.00, z=-122.70]]
+[10Jul2025 03:42:34.286] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/92646, l='ServerLevel[world]', x=133.70, y=86.00, z=-122.70]]
+[10Jul2025 03:42:34.782] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/92646, l='ServerLevel[world]', x=133.70, y=86.00, z=-122.70]]
+[10Jul2025 03:42:36.475] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/92646, l='ServerLevel[world]', x=133.70, y=86.00, z=-122.70]]
+[10Jul2025 03:42:46.518] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/92646, l='ServerLevel[world]', x=133.70, y=86.00, z=-122.70]]
+[10Jul2025 03:42:48.906] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/92646, l='ServerLevel[world]', x=133.70, y=86.00, z=-122.70]]
+[10Jul2025 03:43:03.778] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/92646, l='ServerLevel[world]', x=133.70, y=86.00, z=-122.70]]
+[10Jul2025 03:43:06.245] [Server thread/DEBUG] [de.cadentem.sackman.SackMan/]: Cave Dweller could not pass the spawn checks, target: [ServerPlayer['Fresita_decaida'/92646, l='ServerLevel[world]', x=133.70, y=86.00, z=-122.70]]
+[10Jul2025 03:43:20.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 03:43:20.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 03:43:26.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was slain by Man From The Fog
+[10Jul2025 03:48:20.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Jul2025 03:48:20.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Jul2025 03:51:21.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=133, y=182, z=-130} BlockPos{x=133, y=181, z=-130}
+[10Jul2025 03:51:21.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=133, y=184, z=-130} BlockPos{x=133, y=183, z=-130}

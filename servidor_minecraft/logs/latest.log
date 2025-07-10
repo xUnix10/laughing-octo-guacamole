@@ -35,3 +35,6 @@
 [10Jul2025 02:31:40.210] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 399
 [10Jul2025 03:00:45.167] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 100
 [10Jul2025 03:00:52.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was slain by Man From The Fog
+[10Jul2025 03:43:26.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Fresita_decaida was slain by Man From The Fog
+[10Jul2025 03:51:21.133] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=133, y=182, z=-130} BlockPos{x=133, y=181, z=-130}
+[10Jul2025 03:51:21.284] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=133, y=184, z=-130} BlockPos{x=133, y=183, z=-130}
