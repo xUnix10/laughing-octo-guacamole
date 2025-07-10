@@ -95,3 +95,19 @@
 [10Jul2025 06:58:46.564] [Server thread/WARN] [cgm/]: literal{xUNIx10}(e27a7954-24de-3b7b-97e4-c85e6a076a69) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
 [10Jul2025 06:58:46.564] [Server thread/WARN] [cgm/]: literal{xUNIx10}(e27a7954-24de-3b7b-97e4-c85e6a076a69) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 97
 [10Jul2025 06:58:46.564] [Server thread/WARN] [cgm/]: literal{xUNIx10}(e27a7954-24de-3b7b-97e4-c85e6a076a69) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 96
+[10Jul2025 07:37:06.204] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: xUNIx10 lost connection: Disconnected
+[10Jul2025 07:37:06.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: xUNIx10 left the game
+[10Jul2025 07:37:10.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[10Jul2025 07:37:10.999] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[10Jul2025 07:37:11.000] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[10Jul2025 07:37:11.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[10Jul2025 07:37:12.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[10Jul2025 07:37:12.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[10Jul2025 07:37:12.296] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[10Jul2025 07:37:12.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/man:halucination
+[10Jul2025 07:37:12.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[10Jul2025 07:37:12.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[10Jul2025 07:37:12.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[10Jul2025 07:37:12.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (halucination): All chunks are saved
+[10Jul2025 07:37:12.330] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10Jul2025 07:37:12.779] [Server thread/INFO] [Framework/]: Unloading server configs...
