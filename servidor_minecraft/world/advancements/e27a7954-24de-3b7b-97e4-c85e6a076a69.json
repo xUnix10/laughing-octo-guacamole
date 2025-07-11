@@ -1858,6 +1858,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/mushroom_stew": {
+    "criteria": {
+      "has_bowl": "2025-07-11 01:37:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_wool": {
     "criteria": {
       "has_white_wool": "2025-07-08 01:21:05 +0000"
@@ -1890,6 +1896,7 @@
       "apple": "2025-07-08 01:07:16 +0000",
       "bread": "2025-07-08 01:11:24 +0000",
       "rotten_flesh": "2025-07-10 04:19:46 +0000",
+      "suspicious_stew": "2025-07-11 01:37:12 +0000",
       "carrot": "2025-07-10 04:18:58 +0000"
     },
     "done": false
