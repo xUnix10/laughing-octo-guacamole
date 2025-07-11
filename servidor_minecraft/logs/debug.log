@@ -1884,3 +1884,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [11Jul2025 01:25:17.127] [Server thread/WARN] [cgm/]: literal{Fresita_decaida}(41df040e-7dce-3887-9950-7caa86e43953) tried to fire before cooldown finished or server is lagging? Remaining milliseconds: 99
 [11Jul2025 01:27:08.203] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Jul2025 01:27:08.207] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 01:32:08.204] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 01:32:08.208] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jul2025 01:37:08.206] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jul2025 01:37:08.210] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
